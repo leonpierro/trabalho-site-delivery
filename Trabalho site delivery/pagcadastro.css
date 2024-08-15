@@ -1,0 +1,194 @@
+/* cabeçalho */
+#ftoposite{
+    width: 175px;
+
+
+}
+#sec1{
+    display: flex; 
+    border-bottom:groove;
+    
+    
+    
+}
+#divgrd1{
+    margin-left: 45px;
+    display: flex;
+    
+    
+    
+}
+#divgrd2{
+    display: flex;
+    margin-top: 45px;
+    margin-left: 200px;
+    background-image: url(pixlr-image-generator-.png);
+   background-position: center;
+   background-size: 850px;
+   
+   
+
+}
+
+#dvbtinicio{
+    margin-left: 35px;
+}
+
+#btinicio{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+#dvbtsobre{
+    margin-left: 70px;
+}
+
+
+#btsobre{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtmenu{
+    margin-left: 70px;
+}
+
+
+#btmenu{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcontato{
+    margin-left: 70px;
+}
+
+
+#btcontato{
+    border: solid;
+    border-radius: 10px;
+    width: 65px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcadastro{
+    margin-left: 70px;
+}
+
+
+#btcadastro{
+    border: solid;
+    border-radius: 10px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #663B1C;
+}
+/* fim cabeçalho */
+/* rodape */
+#ft{
+    margin-top: 90px;
+}
+
+
+#ignst{
+    width: 150px;
+}
+
+#dvgrd4{
+    display: flex;
+    margin-left: 50px;
+}
+
+#dvtxtinst{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvteleco{
+    margin-left: 50px;
+}
+#dvtx1{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvtx2{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+#btcadastro2{
+    border: solid;
+    border-radius: 5px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #FF0000;
+    
+}
+
+#dvbtcadastro2{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+/* fim rodape */
+
+
+#dvespace{
+    /* Rectangle 2 */
+
+
+width: 400px;
+height: 500px;
+left: 753px;
+top: 232px;
+
+background: linear-gradient(161.19deg, #663B1C 0%, #8C6244 73.97%, #161525 73.97%);
+box-shadow: -2px -1px 2px rgba(255, 255, 255, 0.45), 14px 14px 0px #0A0B1F;
+border-radius: 8px;
+margin-left: 600px;
+}
+
+
+
+#dvgigante{
+    background-image: url(imagebk.png);
+background-position: 10px;
+background-size: 650px;
+
+}
+
+.dvsipt{
+    margin-left: 30px;
+    color: azure;
+    margin-top: 10px;
+}
+
+#dvregister{
+    text-align: center;
+    color: azure;
+    margin-top: 10px;
+}
+
+#register{
+    background-color:  #8C6244;
+}

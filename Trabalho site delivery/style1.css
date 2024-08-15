@@ -1,0 +1,238 @@
+#ftoposite{
+    width: 175px;
+
+
+}
+#sec1{
+    display: flex; 
+    border-bottom:groove;
+    
+    
+    
+}
+#divgrd1{
+    margin-left: 45px;
+    display: flex;
+    
+    
+}
+#divgrd2{
+    display: flex;
+    margin-top: 45px;
+    margin-left: 200px;
+    background-image: url(pixlr-image-generator-.png);
+   background-position: center;
+   background-size: 850px;
+   
+
+}
+
+#dvbtinicio{
+    margin-left: 35px;
+}
+
+#btinicio{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+#dvbtsobre{
+    margin-left: 70px;
+}
+
+
+#btsobre{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtmenu{
+    margin-left: 70px;
+}
+
+
+#btmenu{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcontato{
+    margin-left: 70px;
+}
+
+
+#btcontato{
+    border: solid;
+    border-radius: 10px;
+    width: 65px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcadastro{
+    margin-left:70px;
+}
+
+
+#btcadastro{
+    border: solid;
+    border-radius: 10px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #663B1C;
+}
+
+#dvbmvindos{
+    font-family: "Limelight", sans-serif;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 75px;
+  
+}
+
+#sec2{
+    font-family: "Mogra", system-ui;
+    text-align: center;
+    margin-top: 105px;
+    font-size: 45px;
+}
+
+#dvprfch{
+    margin-top: 20px;
+}
+
+#sec3{
+   margin-top: 75px;
+}
+
+#imgcf{
+ border:ridge;
+ border-width: 10px;
+ border-color: #663B1C;
+ border-radius: 10px;
+   
+}
+
+#dvimgcf{
+    text-align: center;
+}
+
+#sec4{
+    text-align: center;
+    font-family: "Mogra", system-ui;
+    margin-top: 105px;
+    font-size: 45px;
+}
+
+#sec5{
+    margin-top: 40px;
+    
+}
+
+#dvgrd3{
+    display: flex;
+   align-items: center;
+    
+}
+
+#dvimgpmenu{
+    margin-left: 190px;
+}
+
+#imgpmenu{
+width: 500px;
+border-radius: 10px;
+}
+
+#dvbtpmenu{
+margin-left: 50px;
+
+
+}
+
+#btnpmenu{
+width: 100px;
+height: 100px;
+background-image: url(coffe1.png);
+background-size: 90px;
+border:ridge;
+ border-width: 6px;
+ border-color: #9c5d30;
+ border-radius: 10px;
+
+}
+
+#ft{
+    margin-top: 90px;
+}
+
+
+#ignst{
+    width: 150px;
+}
+
+#dvgrd4{
+    display: flex;
+    margin-left: 50px;
+}
+
+#dvtxtinst{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvteleco{
+    margin-left: 50px;
+}
+#dvtx1{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvtx2{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+#btcadastro2{
+    border: solid;
+    border-radius: 5px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #FF0000;
+    
+}
+
+#dvbtcadastro2{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+

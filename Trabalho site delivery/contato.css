@@ -1,0 +1,198 @@
+/* cabeçalho */
+#ftoposite{
+    width: 175px;
+
+
+}
+#sec1{
+    display: flex; 
+    border-bottom:groove;
+    
+    
+    
+}
+#divgrd1{
+    margin-left: 45px;
+    display: flex;
+    
+    
+    
+}
+#divgrd2{
+    display: flex;
+    margin-top: 45px;
+    margin-left: 200px;
+    background-image: url(pixlr-image-generator-.png);
+   background-position: center;
+   background-size: 850px;
+   
+   
+
+}
+
+#dvbtinicio{
+    margin-left: 35px;
+}
+
+#btinicio{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+#dvbtsobre{
+    margin-left: 70px;
+}
+
+
+#btsobre{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtmenu{
+    margin-left: 70px;
+}
+
+
+#btmenu{
+    border: solid;
+    border-radius: 10px;
+    width: 55px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcontato{
+    margin-left: 70px;
+}
+
+
+#btcontato{
+    border: solid;
+    border-radius: 10px;
+    width: 65px;
+    height: 44px;
+    border-color: #663B1C;
+}
+
+
+#dvbtcadastro{
+    margin-left: 70px;
+}
+
+
+#btcadastro{
+    border: solid;
+    border-radius: 10px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #663B1C;
+}
+/* fim cabeçalho */
+/* rodape */
+#ft{
+    margin-top: 90px;
+}
+
+
+#ignst{
+    width: 150px;
+}
+
+#dvgrd4{
+    display: flex;
+    margin-left: 50px;
+}
+
+#dvtxtinst{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvteleco{
+    margin-left: 50px;
+}
+#dvtx1{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#dvtx2{
+    margin-top: 50px;
+    font-family: "Lalezar", system-ui;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+#btcadastro2{
+    border: solid;
+    border-radius: 5px;
+    width: 95px;
+    height: 44px;
+    border: 4px dashed #FF0000;
+    
+}
+
+#dvbtcadastro2{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+/* fim rodape */
+
+
+#dvgemail{
+    margin-top: 20px;
+    font-family: "Lalezar", system-ui;
+    color: white;
+}
+
+#dvgtelefone{
+    margin-top: 20px;
+    font-family: "Lalezar", system-ui;
+    color: white;
+}
+
+#dvgnome{
+    margin-top: 20px;
+    font-family: "Lalezar", system-ui;
+    color: white;
+}
+
+#dvgtxt{
+    margin-top: 20px;
+    font-family: "Lalezar", system-ui;
+    color: white;
+}
+
+#txtx{
+    width: 400px;
+    height: 100px;
+    border-radius: 7px;
+}
+
+#dvgigante2{
+    height: 1000px;
+    background-image: url(imagebk2.png)
+    
+}
+
+#ssc2{
+    margin-left: 100px;
+}
+
+.ipt2{
+    border-radius: 7px;
+}
